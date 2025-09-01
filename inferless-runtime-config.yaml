@@ -8,4 +8,4 @@ build:
     - "gradio>=5.0.0"
 
   run:
-    - "git clone https://huggingface.co/spaces/dangthr/StableAvatar && cd StableAvatar && pip install -r requirements.txt && python downloader.py"
+    - "git clone https://huggingface.co/spaces/dangthr/StableAvatar && cd StableAvatar && pip install -r requirements.txt"
