@@ -5,7 +5,6 @@ build:
     - "git"
     - "ffmpeg"
   python_packages:
-    - "inferless-cli==2.0.9"
     - "torch"
     - "ninja"
     - "pydantic"
